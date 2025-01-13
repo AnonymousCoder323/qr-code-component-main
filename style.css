@@ -31,7 +31,7 @@ body {
   flex-flow: column nowrap;
   justify-content: center;
   margin-inline: auto;
-  padding: 1rem;
+  padding: 1rem 1rem 2.5rem;
   width: min(85vw, 320px);
 }
 
@@ -55,7 +55,6 @@ body {
   font-size: 0.938; /* 15px */
   color: var(--description-text);
   margin-top: 1rem;
-  margin-bottom: 2.5rem;
   line-height: 1.4;
 }
 
